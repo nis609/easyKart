@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345055388474",
+    "project_id": "easykart-5cd59",
+    "storage_bucket": "easykart-5cd59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345055388474:android:d17b75c5825294c21da603",
+        "android_client_info": {
+          "package_name": "ecommerce.easykart.ecoomerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345055388474-ih356l11r60c4sl0j9jjmevi414buu3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ecommerce.easykart.ecoomerce_app",
+            "certificate_hash": "ff64ffb39c5e33fc90c71e4757ce0f933fdbdc89"
+          }
+        },
+        {
+          "client_id": "345055388474-il0oeanh8gp7ir94u4630quo1h5mcnta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkwfp7M7Tle_V7c9FxqzxavSpBsGKIhXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345055388474-il0oeanh8gp7ir94u4630quo1h5mcnta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
